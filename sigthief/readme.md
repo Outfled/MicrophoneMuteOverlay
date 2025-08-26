@@ -12,4 +12,7 @@ The command used to steal & apply the signature onto the OutfledOverlay.dll:
 
     sigthief.py -i DiscordHook64.dll -t ..\Build\OutfledOverlay.dll -o ..\Build\OutfledOverlay.dll
 
+# Sigthief original repository:
+
+https://github.com/secretsquirrel/SigThief
     
